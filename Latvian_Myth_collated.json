@@ -1,8 +1,15 @@
 {
-    "count": 7,
+    "count": 10,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "6e7094ea-e5a4-437d-9c2d-ece69ccfff2e",
+            "collectionId": "Latvian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Latvian/6e7094ea-e5a4-437d-9c2d-ece69ccfff2e_lv_Male.mp4"
+        },
         {
             "id": "215ae26c-9186-4270-9f48-8fdcb983e1c7",
             "collectionId": "Latvian",
@@ -16,6 +23,20 @@
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Latvian/d8ee77e1-88d5-467e-9852-88291aa4441a_lv_Male.mp4"
+        },
+        {
+            "id": "bfcbaec6-2268-41ee-909b-214786e507e1",
+            "collectionId": "Latvian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Latvian/bfcbaec6-2268-41ee-909b-214786e507e1_lv_Male.mp4"
+        },
+        {
+            "id": "ef025e9d-d447-4f4f-b38f-418748b0fced",
+            "collectionId": "Latvian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Latvian/ef025e9d-d447-4f4f-b38f-418748b0fced_lv_Male.mp4"
         },
         {
             "id": "f167df61-6cc5-4801-b264-4ca8c2cc4ebc",
